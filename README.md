@@ -10,7 +10,7 @@ Um simples todo app utilizando HTML, CSS e Javascript
 <br>
 
 ## Demonstração
-<img src='demonstracao.gif' alt='Todo app' title='Todo app'>
+<img src='screenshot.gif' alt='Todo app' title='Todo app'>
 
 ## Pré-requisitos
 Antes de começar, você precisa ter instalado o <a href="https://git-scm.com/">GIT</a> na sua máquina.
