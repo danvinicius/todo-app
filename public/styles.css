@@ -117,7 +117,7 @@ textarea {
   box-shadow: 1px 1px 5px #fbb;
   margin-bottom: 10px;
   font-weight: bold;
-  word-break: break-all;
+  word-wrap: break-word;
   overflow: hidden;
   position: relative;
 }
