@@ -1,7 +1,7 @@
-<h1>Todo App</h1>
+<h1>To-Do App</h1>
 
-## Sobre
-Um simples todo app utilizando HTML, CSS e Javascript
+## About
+A simple to-do app using HTML, CSS and Javascript
 <div style="display: inline_block">
     <img align="center" alt="HTML5" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS3" title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -9,28 +9,25 @@ Um simples todo app utilizando HTML, CSS e Javascript
 </div>
 <br>
 
-## Demonstração
+## The app
 <img src='screenshot.gif' alt='Todo app' title='Todo app'>
 
-## Pré-requisitos
-Antes de começar, você precisa ter instalado o <a href="https://git-scm.com/">GIT</a> na sua máquina.
-Você pode abrir o arquivo HTML direto dos seus arquivos, ou se preferir, instale o <a href="https://code.visualstudio.com/">Visual Studio Code</a> e sua extensão Live Server.
-
-### Rodando a aplicação com o VSCode
+## Running the app on VSCode
 
 ```bash
-# Clone este repositório
+# Clone this repository
 $ git clone <https://github.com/dnruby/todo-app.git>
 
-# Entre na pasta do projeto no terminal/cmd
+# Enter the project folder on terminal/cmd
 $ cd todo-app
 
-# Abra a aplicação no VSCode
+# Open the app on VSCode
 $ code .
 
-# Ative o Live Server
+# Install and activate Live Server Extension
 $ Alt+L Alt+O
 
 ```
-
-<b>Autor:</b> <a href="https://www.linkedin.com/in/daniel-vinicius-19a41b122/">Daniel Vinícius</a>
+Install <a href="https://git-scm.com/">GIT</a> and <a href="https://code.visualstudio.com/">Visual Studio Code</a> on your computer.
+<br><br>
+<b>Author:</b> <a href="https://www.linkedin.com/in/daniel-vinicius-19a41b122/">Daniel Vinícius</a>
